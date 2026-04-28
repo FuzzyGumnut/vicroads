@@ -1,0 +1,14 @@
+[
+  {
+    "id": "03ad6301-c9b5-4821-ba61-12e95b13b4a1",
+    "email": "bowenduffs@gmail.com",
+    "password": "$2b$10$lSYaekyMhqnT9Bq0bV0UY.oLRf8gniEGWMo9X9HSeLlL5y.IhE7/2",
+    "name": "Bowen Duff",
+    "licenceData": "{}",
+    "keyUsed": "ABC123",
+    "role": "admin",
+    "banned": 0,
+    "sessionVersion": 0,
+    "createdAt": "2026-04-24T02:13:50.956Z"
+  }
+]
